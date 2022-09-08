@@ -8,7 +8,7 @@ function Buscador(props) {
 
     <div className="container-fluid navbar navbar-light bg-light form-navbar">
       <div>
-        <img className="form-img" src={banderaChile} alt="" />
+        <img className="form-img" src={banderaChile} />
      
       </div>
       <div>
