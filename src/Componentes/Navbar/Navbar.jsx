@@ -8,7 +8,8 @@ function Buscador(props) {
 
     <div className="container-fluid navbar navbar-light bg-light form-navbar">
       <div>
-        <img className="form-img" src={banderaChile} />
+        <img className="form-img" src={banderaChile} alt="" />
+     
       </div>
       <div>
         <h1 className="navbar-brand form-texto">Días festivos en Chile 2022</h1>
