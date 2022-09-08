@@ -1,0 +1,13 @@
+.formato-order{
+
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.form-boton{
+
+    margin: 0 10vh 0 0;
+    height: 8vh;
+    
+}
